@@ -1,3 +1,5 @@
+#Wrote this one in high school, thought it'd be cool to share.
+
 import random
 
 def main():
